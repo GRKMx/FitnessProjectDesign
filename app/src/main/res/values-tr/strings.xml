@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GYM MONSTER</string>
+    <string name="screenTitle">GYM MONSTER</string>
+    <string name="workoutTitle">Antrenmanlar</string>
+    <string name="explanation">Hey, parça parça olmak ister misin? Bu 6 haftalık egzersiz programı vücut yağını azaltacak ve kas boyutunu artıracak! Şimdi dene!</string>
+    <string name="buttonText">SADECE 250 ₺</string>
+    <string name="dayText">4 Gün</string>
+    <string name="weightText">Hafif ağırlık</string>
+    <string name="goalText">Definasyon</string>
+</resources>

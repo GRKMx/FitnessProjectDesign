@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GYM MONSTER</string>
+    <string name="screenTitle">GYM MONSTER</string>
+    <string name="workoutTitle">Workouts</string>
+    <string name="explanation">Hey, wanna be shredded? This 6 week workout program will decrease your body fat and increase your muscle size! Try it now!</string>
+    <string name="buttonText">BUY NOW FOR ONLY 15  $</string>
+    <string name="dayText">4 day</string>
+    <string name="weightText">Light weight</string>
+    <string name="goalText">Definition</string>
+</resources>
